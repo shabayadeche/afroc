@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 240" role="img" aria-labelledby="title desc">
+  <title id="title">AFROC Project logo</title>
+  <desc id="desc">Circular AFROC Project logo with green outer band, yellow center band, and ICF Africa text.</desc>
+  <circle cx="120" cy="120" r="118" fill="#0b6a3e" />
+  <circle cx="120" cy="120" r="112" fill="#0b6a3e" stroke="#ffffff" stroke-width="4" />
+  <rect x="10" y="86" width="220" height="68" rx="8" fill="#f7e81e" />
+  <path d="M118 70c-22-2-43 4-59 18" fill="none" stroke="#ffffff" stroke-width="4" stroke-linecap="round"/>
+  <path d="M122 170c20 1 41-5 57-18" fill="none" stroke="#ffffff" stroke-width="4" stroke-linecap="round"/>
+  <text x="120" y="38" text-anchor="middle" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="20" letter-spacing="4">AFROC</text>
+  <text x="52" y="123" text-anchor="middle" fill="#12311f" font-family="Arial, Helvetica, sans-serif" font-size="18" letter-spacing="1">ICF</text>
+  <text x="181" y="123" text-anchor="middle" fill="#12311f" font-family="Arial, Helvetica, sans-serif" font-size="18" letter-spacing="1">AFRICA</text>
+  <text x="120" y="213" text-anchor="middle" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="18" letter-spacing="3">PROJECT</text>
+  <path d="M121 83v58" stroke="#1a1633" stroke-width="5" stroke-linecap="round"/>
+  <path d="M121 141c14 0 27 8 35 21" fill="none" stroke="#1a1633" stroke-width="5" stroke-linecap="round"/>
+  <path d="M121 141c-3 8-7 15-13 21" fill="none" stroke="#1a1633" stroke-width="5" stroke-linecap="round"/>
+  <circle cx="121" cy="141" r="5" fill="#1a1633"/>
+</svg>
